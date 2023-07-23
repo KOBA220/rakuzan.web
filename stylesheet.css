@@ -1,0 +1,447 @@
+.container{
+    width:1170px;
+    margin:0 auto;
+}
+
+.head-contents{
+    float:right;
+   
+}
+
+.head-contents li{
+    list-style:none;
+    text-align:center;
+    float:left;
+    font-size:30px;
+}
+
+.btn{
+    background-color:rgb(254, 254, 254);
+    display:block;
+    padding:15px 30px;
+    border:3px solid;
+    color:black;
+    border-radius:10px 10px 0 0;
+}
+
+.title{
+    opacity:0.7;
+    width:100%;
+}
+
+
+.section-wrapper{
+    height:900px;
+}
+
+.section-title{
+    height:68px; 
+    margin-top:50px;
+    border-bottom:3px solid;
+}
+
+.HOME{
+    width:50%;
+    color:white;
+    margin:0 auto;
+    text-align:center;
+    padding-top:20px; 
+    background:linear-gradient(red,black);
+}
+
+.section-home{
+    width:800px;
+    margin:0 auto;
+}
+
+
+.section1{
+    border-bottom:2px solid;
+    float:left;
+    width:100%
+}
+
+.section1-left {
+    float:left;
+    margin:30px 0;
+    padding-top:20px;
+    font-size:25px;
+    width:40%;
+    text-align:center;
+}
+
+.time{
+    float:right;
+    font-size:20px;
+    margin-top:50px;
+    margin-right:10px;
+    width:40%;
+    text-align:center;
+}
+
+.section2{
+    border-bottom:2px solid;
+    float:left;
+    width:100%
+}
+
+.section2-left {
+    float:left;
+    margin:30px 0;
+    font-size:25px;
+    clear:left;
+    width:40%;
+    text-align:center;
+}
+
+.seat{
+    float:right;
+    font-size:18px;
+    clear:right;
+    margin:23px 0;
+    width:40%;
+    text-align:center;
+}
+
+.section3{
+    border-bottom:2px solid;
+    float:left;
+    width:100%;
+}
+
+.section3-left{
+    clear:left;
+    float:left;
+    font-size:25px;
+    margin:30px 0;
+    width:40%;
+    text-align:center;
+}
+
+.sepa{
+    clear:right;
+    float:right;
+    font-size:20px;
+    margin-top:50px;
+    width:40%;
+    text-align:center;
+}
+
+.section4{
+    border-bottom:2px solid;
+    float:left;
+    width:100%;
+}
+
+.section4-left{
+    clear:left;
+    float:left;
+    font-size:25px;
+    margin:30px 0;
+    width:40%;
+    text-align:center;
+}
+
+.pay{
+    clear:right;
+    float:right;
+    font-size:20px;
+    margin-top:50px;
+    width:40%;
+    text-align:center;
+}
+
+.menu-wrapper{
+    height:2600px;
+}
+
+.section-menu{
+    border-bottom:2px solid;
+    margin:0 auto;
+}
+
+.menu{
+    width:50%;
+    color:white;
+    margin:0 auto;
+    text-align:center;
+    padding-top:20px; 
+    background:linear-gradient(red,black);
+}
+
+.menu-title1{
+    text-align:center;
+    width:200px;
+    margin:30px  auto;
+    border:2px solid;
+}
+
+.food1{
+    width:50%;
+    float:left;
+}
+
+.fish{
+    width:80%;
+    float:left;
+}
+
+.fish-icon{
+    width:100%;
+    clip-path: circle(42.6% at 50% 50%);
+}
+
+.fish h2{
+    text-align:center;
+}
+
+.meet{
+    width:80%;
+    float:right;
+    margin-bottom:0px;
+}
+
+.meet-icon{
+    width:90%;
+    clip-path: circle(42.6% at 50% 50%);
+}
+
+.meet h2{
+    text-align:center;
+    margin-top:0px;
+}
+
+.food2{
+    width:50%;
+    float:left;
+    margin:30px 0;
+}
+
+.sarad{
+    width:80%;
+    float:left;
+}
+
+.sarad-icon{
+    width:90%;
+    clip-path: circle(42.6% at 50% 50%);
+}
+
+.sarad h2{
+    text-align:center;
+}
+
+.pot{
+    width:80%;
+    float:right;
+}
+
+.pot-icon{
+    width:100%;
+    clip-path: circle(42.6% at 50% 50%);
+}
+
+.pot h2{
+    text-align:center;
+}
+
+.food3{
+    width:50%;
+    float:left;
+}
+
+.season{
+    width:80%;
+    float:left;
+}
+
+.season-icon{
+    width:90%;
+    clip-path: circle(42.6% at 50% 50%);
+}
+
+.season h2{
+    text-align:center;
+}
+
+.takeout{
+    width:90%;
+    margin-top:15px;
+    float:right;
+}
+
+.takeout-icon{
+    width:100%;
+    margin-left:50px;
+    clip-path: circle(42.6% at 50% 50%);
+}
+
+.takeout h2{
+    text-align:center;
+}
+
+.menu-title2{
+    text-align:center;
+    width:200px;
+    margin-top:1500px;
+    margin-left:40%;
+    padding:5px 10px;
+    border:2px solid;
+}
+
+.drink1{
+    width:50%;
+    float:left;
+}
+
+.sake{
+    width:70%;
+    height:450px;
+}
+
+.sake-icon{
+    width:70%;
+    margin-left:60px;
+    clip-path: circle(42.6% at 50% 50%);
+}
+
+.sake h2{
+    text-align:center;
+}
+
+.shochu{
+    width:70%;
+    height:450px;
+    float:right;
+}
+
+.shochu-icon{
+    width:90%;
+    margin:35px 20px;
+    clip-path: circle(43% at 50% 50%);
+}
+
+.shochu h2{
+    text-align:center;
+}
+
+.drink2{
+    width:100%;
+    clear:left;
+}
+
+.others{
+    text-align:center;
+    clear:left;
+}
+
+.others-icon{
+    clip-path: circle(42.6% at 50% 50%);
+}
+
+.others h2{
+    text-align:center;
+}
+
+.btn-icon:hover{
+    opacity:0.6;
+}
+
+.map-wrapper{
+    height:1000px;
+}
+
+.section-map{
+    border-bottom:2px solid;
+    margin:0 auto;
+}
+
+.map{
+    width:50%;
+    color:white;
+    margin:0 auto;
+    text-align:center;
+    padding-top:20px; 
+    background:linear-gradient(red,black);
+}
+
+.map-contents{
+    text-align:center;
+}
+
+.map-contents h2{
+    width:100px;
+    padding:10px 15px;
+    border:2px solid;
+    margin:20px auto;
+    
+}
+
+.access-map{
+    width:50%;
+    float:right;
+}
+
+.details{
+    width:48%;
+    height:400px;
+    margin-top:50px;
+}
+
+.adress{
+    border-bottom:2px solid;
+    height:120px;
+}
+
+.adress h3{
+    width:50%;
+    margin:50px 0;
+    float:left;
+}
+
+.adress p{
+    font-size:15px;
+    width:40%;
+    float:right;
+}
+
+.cars{
+    width:100%;
+    height:130px;
+    border-bottom:2px solid;
+    clear:left;
+}
+
+
+
+.cars h3{
+    width:40%;
+    padding-left:25px;
+    margin:50px 0;
+    float:left;
+}
+
+.cars p{
+    float:right;
+    margin:50px 0;
+    width:50%;
+}
+
+.access{
+    width:100%;
+    height:130px;
+    border-bottom:2px solid;
+}
+
+.access h3{
+    width:40%;
+    margin-top:50px;
+    margin-left:30px;
+    float:left;
+}
+
+.access p{
+    width:50%;
+    margin:50px 0;
+    float:right;
+}
